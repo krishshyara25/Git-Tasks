@@ -2,9 +2,9 @@ task list1
 Added a discription
 # Task 1 : Install and Configure Git
 ## 1.Configure Git with your username and email
-git config --global user.name "Your Name"
+### git config --global user.name "Your Name"
 -->define username
-git config --global user.email "krihshyara25@gmail.com"
+### git config --global user.email "krihshyara25@gmail.com"
 -->define useremail
 
 ## 2.View your Git configuration:
